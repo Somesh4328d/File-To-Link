@@ -17,7 +17,7 @@
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/somesh4328d="Dollow">Follow Me For Updates</a></b>
 
 ## Up to 4GB files Supported ♥️
 
@@ -157,12 +157,4 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 ### Channel Support
 Bot also Supported with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button. </details>
 
-### Credits : 
 
-- [Adarsh Goel](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
-- <b>⍣ [ᴀᴀᴅʜɪ](https://GitHub.com/Aadhi000)</b>
-- Everyone In This Journey !
-
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/aadhi.xr/) | [ɢɪᴛʜᴜʙ](https://GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
